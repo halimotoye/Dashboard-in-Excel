@@ -1,4 +1,5 @@
-<img width="827" alt="Health Quest Medicals" src="https://github.com/halimotoye/Dashboard-in-Excel/assets/172057907/fc3b70ec-6b7a-46a5-ab97-aedddf2d3395">
+<img width="210" alt="Screenshot 2024-07-08 155509" src="https://github.com/halimotoye/Dashboard-in-Excel/assets/172057907/62e56d59-7a38-481e-ba11-b18d3e625254">
+
 
 # HEALTH QUEST MEDICALS
 
