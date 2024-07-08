@@ -16,18 +16,27 @@ _**TAILORED ANALYSIS**_
 • What is the average age of employees, and how does this vary across departments?
 
 • What is the distribution of education levels within the company, and is there a predominant education field among employees?
+
 • Do you think the longer an employee commutes to the office, the higher their monthly take home?
   What of a relationship between years at company and percent salary hike?
+  
 • What is the average monthly income of employees per department, and what is the corresponding deviation from this value?
+
 • Is there Gender discrimination in terms of renumeration?
+
 • Considering the monthly income of employees, which Job role has the lowest income range? Provide a pictorial representation.
+
 • What is the attrition rate within the company?
 
 _**EXERCISE**_
 
 • What is the distribution of the years, when employees were last promoted?
+
 • What is the median income distribution across educational levels?
+
 • Determine the median Age for employees who have and have not worked overtime. What might this indicate about the potential health impacts of overtime?
+
 • Compare the frequented JobSatisfaction ratings across different job roles. What can you deduce?
+
 • How satisfied are employees with their work environment?
 
