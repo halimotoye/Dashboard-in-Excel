@@ -1,5 +1,4 @@
-<img width="210" alt="Screenshot 2024-07-08 155509" src="https://github.com/halimotoye/Dashboard-in-Excel/assets/172057907/62e56d59-7a38-481e-ba11-b18d3e625254">
-
+<img width="214" alt="Screenshot 2024-07-08 153013" src="https://github.com/halimotoye/Dashboard-in-Excel/assets/172057907/a1c3570c-7a16-40fa-bc16-7a1f0e1a2ef6">
 
 # HEALTH QUEST MEDICALS
 
