@@ -14,6 +14,7 @@ Health Quest has hired you as a Data Professional. Health Quest wants me to prov
 _**TAILORED ANALYSIS**_
 
 • What is the average age of employees, and how does this vary across departments?
+
 • What is the distribution of education levels within the company, and is there a predominant education field among employees?
 • Do you think the longer an employee commutes to the office, the higher their monthly take home?
   What of a relationship between years at company and percent salary hike?
