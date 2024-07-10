@@ -11,6 +11,38 @@ _**PROBLEM OVERVIEW**_
 
 Health Quest has hired you as a Data Professional. Health Quest wants me to provide valuable insights into the company's workforce and help identify areas for improvement. They need a better understanding of their employee demographics and descriptive statistics.
 
+_**DATA DICTIONARY**_
+• Age: The age of the employee. (Numerical)
+• Attrition: Whether or not the employee has left the organization. (Categorical)
+• EmployeeNumber: A unique identifier for each employee profile. (Numerical)
+• Gender: The gender of the employee. (Categorical)
+• BusinessTravel: The frequency of business travel for the employee. (Categorical)
+• Department: The department the employee works in. (Categorical)
+• DistanceFromHome: The distance from home in miles for the employee. (Numerical)
+• Education: The level of education achieved by the employee. (Categorical)
+• EducationField: The field of study for the employee's education. (Categorical)
+• EnvironmentSatisfaction: The employee's satisfaction with their work environment. (Categorical)
+• JobInvolvement: The level of involvement required for the employee's job. (Categorical)
+• JobLevel: The job level of the employee. (Categorical)
+• JobRole: The role of the employee in the organization. (Categorical)
+• JobSatisfaction: The employee's satisfaction with their job. (Categorical)
+• MaritalStatus: The marital status of the employee. (Categorical)
+• MonthlyIncome: The monthly income of the employee. (Numerical)
+• NumCompaniesWorked: The number of companies the employee has worked for. (Numerical)
+• Over18: Whether or not the employee is over 18. (Categorical)
+• OverTime: Whether or not the employee works overtime. (Categorical)
+• PercentSalaryHike: The percentage of salary hike for the employee. (Numerical)
+• PerformanceRating: The performance rating of the employee. (Categorical)
+• RelationshipSatisfaction: The employee's satisfaction with their relationships. (Categorical)
+• TotalWorkingYears: The total number of years the employee has worked. (Numerical)
+• TrainingTimesLastYear: The number of times the employee was taken for training in the last year.(Numerical)
+• WorkLifeBalance: The employee's perception of their work-life balance. (Categorical)
+• YearsAtCompany: The number of years the employee has been with the company. (Numerical)
+• YearsInCurrentRole: The number of years the employee has been in their current role. (Numerical)
+• YearsSinceLastPromotion: The number of years since the employee's last promotion. (Numerical)
+• YearsWithCurrManager: The number of years the employee has been with their current manager.(Numerical)
+
+
 _**TAILORED ANALYSIS**_
 
 • What is the average age of employees, and how does this vary across departments?
