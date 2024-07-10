@@ -13,8 +13,11 @@ Health Quest has hired you as a Data Professional. Health Quest wants me to prov
 
 _**DATA DICTIONARY**_
 • Age: The age of the employee. (Numerical)
+
 • Attrition: Whether or not the employee has left the organization. (Categorical)
+
 • EmployeeNumber: A unique identifier for each employee profile. (Numerical)
+
 • Gender: The gender of the employee. (Categorical)
 • BusinessTravel: The frequency of business travel for the employee. (Categorical)
 • Department: The department the employee works in. (Categorical)
